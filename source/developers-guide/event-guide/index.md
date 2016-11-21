@@ -9,7 +9,7 @@ group: Developer Guides
 subgroup: Developing plugins
 ---
 
-In order to extend Shopware or modify its behavior you will need some sort of extension system, that allows you too
+In order to extend Shopware or modify its behavior you will need some sort of extension system, that allows you to
 hook onto Shopware. The following guide will give an overview of event systems in general and the Shopware event system
 specifically
 
